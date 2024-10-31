@@ -1,0 +1,28 @@
+body {
+    background-image: url(backgroundImg.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100dvh;
+}
+
+.fighterCard {
+    min-height: 30dvh
+}
+
+.fighterCard img {
+    height: 10dvh;
+    width: 10dvh;
+}
+
+.bossCard {
+    min-height: 30dvh;
+}
+
+.bossCard img {
+    height: 40dvh;
+    width: 40dvh;
+}
+
+.btn {
+    background-color: #514e75;
+}
